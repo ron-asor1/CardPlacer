@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ron\\source\\repos\\CardSelector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|c:\\users\\ron\\source\\repos\\cardselector\\cardselector\\cscardselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|solutionrelative:cardselector\\cscardselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|c:\\users\\ron\\source\\repos\\cardselector\\cardselector\\cardselector.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|solutionrelative:cardselector\\cardselector.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|c:\\users\\ron\\source\\repos\\cardselector\\cardselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|solutionrelative:cardselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|c:\\users\\ron\\source\\repos\\cardselector\\cardselector\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|solutionrelative:cardselector\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|c:\\users\\ron\\source\\repos\\cardselector\\cardselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA634C3-45BC-4CC3-878A-BC0EC2E7DC6A}|CardSelector\\CardSelector.csproj|solutionrelative:cardselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardSelector",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\CardSelector.csproj",
+              "RelativeDocumentMoniker": "CardSelector\\CardSelector.csproj",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\CardSelector.csproj",
+              "RelativeToolTip": "CardSelector\\CardSelector.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T06:15:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "csCardSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\csCardSelector.cs",
+              "RelativeDocumentMoniker": "CardSelector\\csCardSelector.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\csCardSelector.cs",
+              "RelativeToolTip": "CardSelector\\csCardSelector.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA7wCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:28:32.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\Form1.cs",
+              "RelativeDocumentMoniker": "CardSelector\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\Form1.cs [Design]",
+              "RelativeToolTip": "CardSelector\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:34:33.195Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CardSelector\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\Form1.Designer.cs",
+              "RelativeToolTip": "CardSelector\\Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:08:58.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\Form1.cs",
+              "RelativeDocumentMoniker": "CardSelector\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CardSelector\\CardSelector\\Form1.cs",
+              "RelativeToolTip": "CardSelector\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:47:40.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

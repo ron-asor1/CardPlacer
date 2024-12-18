@@ -1,0 +1,6 @@
+C:\Users\Ron\source\repos\CardSelector\CardSelector\obj\Debug\net5.0-windows7.0\CardSelector.Form1.resources
+C:\Users\Ron\source\repos\CardSelector\CardSelector\obj\Debug\net5.0-windows7.0\CardSelector.csproj.GenerateResource.cache
+C:\Users\Ron\source\repos\CardSelector\CardSelector\obj\Debug\net5.0-windows7.0\CardSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ron\source\repos\CardSelector\CardSelector\obj\Debug\net5.0-windows7.0\CardSelector.AssemblyInfoInputs.cache
+C:\Users\Ron\source\repos\CardSelector\CardSelector\obj\Debug\net5.0-windows7.0\CardSelector.AssemblyInfo.cs
+C:\Users\Ron\source\repos\CardSelector\CardSelector\obj\Debug\net5.0-windows7.0\CardSelector.csproj.CoreCompileInputs.cache
